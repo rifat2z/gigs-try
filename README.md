@@ -110,7 +110,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 - 🌐 GitHub: https://github.com/your-username  
 - 📍 Location: Bangladesh  
 
----
+--->>>>
 
 ## ⭐ Why Choose Me?
 
@@ -119,7 +119,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 ✔ Fast communication  
 ✔ 100% dedication to client satisfaction  
 
----
+--->>>
 
 **Thank you for visiting my GitHub!**  
 Feel free to contact me for collaboration or freelance work 🚀
