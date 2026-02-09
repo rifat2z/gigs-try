@@ -3,7 +3,7 @@
 Hi 👋  
 I’m **Rifat Ahmed**, a passionate **Software Engineer-- & --Web Developer**.  
 This repository showcases my **freelancing services (Gigs)** that I offer on platforms like **Fiverr & Upwork**.
----
+--->>>
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science background  
