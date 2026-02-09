@@ -48,7 +48,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 
 **Backend:**
 - Java (Spring Boot) / Node.js  
-
+>>>
 **Database:**
 - MySQL / MongoDB  
 
