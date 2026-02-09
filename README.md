@@ -15,7 +15,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 
 ### 🌐 1. Modern Website / Portfolio Development
 ***
-**Gig Title:**  
+**Gig Title:**  **
 > I will build a modern, responsive and professional website or portfolio
 
 **What I offer:**
