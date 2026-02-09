@@ -11,12 +11,10 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 - 🌱 Learning & building real-world projects  
 - 🎯 Goal: Become a professional software engineer and freelancer  
 
----
-
-## 🛠 My Freelancing Gigs (Services)
+  ## 🛠 My Freelancing Gigs (Services)
 
 ### 🌐 1. Modern Website / Portfolio Development
-
+***
 **Gig Title:**  
 > I will build a modern, responsive and professional website or portfolio
 
@@ -27,7 +25,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 - Contact form integration  
 - Smooth animations  
 - SEO-friendly structure  
-
+>>>
 **Best for:**
 - Developer Portfolio  
 - Business Website  
