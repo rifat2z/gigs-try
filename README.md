@@ -36,7 +36,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 - HTML, CSS, JavaScript  
 - React, Tailwind CSS  
 ....
----
+>>>>---
 
 ### ⚙️ 2. Full Stack Web Application...
 
