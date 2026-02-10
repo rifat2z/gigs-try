@@ -38,7 +38,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 
 ---
 
-### ⚙️ 2. Full Stack Web Application
+### ⚙️ 2. Full Stack Web Application...
 
 **What I offer:**
 - Frontend + Backend development  
