@@ -101,7 +101,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 
 👉 Live demos & source code are available in my GitHub repositories.
 
----
+>>>---
 
 ## 📞 Contact Me
 
