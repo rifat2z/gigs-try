@@ -89,7 +89,7 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 
 *(Pricing may vary based on project requirements)*
 
----
+>>>---
 
 ## 📂 Sample Projects
 
