@@ -120,6 +120,6 @@ This repository showcases my **freelancing services (Gigs)** that I offer on pla
 ✔ 100% dedication to client satisfaction  
 
 --->>>
-ok
+
 **Thank you for visiting my GitHub!**  
 Feel free to contact me for collaboration or freelance work 🚀
