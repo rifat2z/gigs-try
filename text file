@@ -753,7 +753,7 @@
                 mobileMenu.classList.remove('flex');
             });
         });
-
+**    **    **    **
         // --- Typewriter Effect ---
         const typewriterText = document.getElementById('typewriter');
         const words = ["Software Engineer", "Web Developer", "AI Enthusiast"];
