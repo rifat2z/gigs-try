@@ -97,7 +97,7 @@
             .cursor-dot, .cursor-outline { display: none; }
         }
 
-*-/-/**
+---999--
         /* --- LIVE WALLPAPER / AURORA BACKGROUND --- */
         .aurora-bg {
             position: fixed;
