@@ -93,7 +93,7 @@
             body { cursor: auto; }
             .cursor-dot, .cursor-outline { display: none; }
         }
-        /* --- LIVE WALLPAPER / AURORA BACKGROUND --- */
+        /* --- LIVE WALLPAPER-AURORA BACKGROUND --- */
         .aurora-bg {
             position: fixed;
             top: 0;
