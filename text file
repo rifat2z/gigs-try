@@ -50,7 +50,6 @@
             }
         }
     </script>
-**     --    **
     <style>
         /* --- CUSTOM CURSOR STYLES --- */
         body {
@@ -68,7 +67,6 @@
             z-index: 9999;
             pointer-events: none;
         }
---**--
         .cursor-dot {
             width: 8px;
             height: 8px;
@@ -95,8 +93,6 @@
             body { cursor: auto; }
             .cursor-dot, .cursor-outline { display: none; }
         }
-
----999--
         /* --- LIVE WALLPAPER / AURORA BACKGROUND --- */
         .aurora-bg {
             position: fixed;
