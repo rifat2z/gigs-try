@@ -130,7 +130,7 @@
             pointer-events: none;
         }
 
-        /* --- GLASSMORPHISM & 3D CARDS --- */
+        /* ---GLASSMORPHISM & 3D CARDS--- */
         .glass-panel {
             background: rgba(255, 255, 255, 0.6);
             backdrop-filter: blur(12px);
