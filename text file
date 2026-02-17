@@ -238,7 +238,7 @@
         </div>
     </header>
 
-    <!-- 1️⃣ Hero Section -->
+    <!-1️⃣ Hero Section-->
     <section id="home" class="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
         <!-- Decorative Blobs -->
         <div class="absolute top-1/4 left-1/4 w-96 h-96 bg-purple-500 rounded-full mix-blend-multiply filter blur-[128px] opacity-30 animate-blob"></div>
