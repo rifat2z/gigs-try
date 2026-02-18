@@ -26,7 +26,7 @@
                 extend: {
                     colors: {
                         primary: '#3B82F6', // Blue
-                        secondary: '#8B5CF7', // Violet
+                        secondary: '#8B5CF8', // Violet
                         dark: '#0f172a',
                         cardDark: '#1e293b',
                     },
