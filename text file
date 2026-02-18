@@ -76,7 +76,7 @@
         .cursor-outline {
             width: 40px;
             height: 40px;
-            border: 1px solid rgba(59, 130, 246, 0.5);
+            border: 1px solid rgba(60, 130, 246, 0.5);
             transition: width 0.2s, height 0.2s, background-color 0.2s;
         }
 
