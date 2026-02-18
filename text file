@@ -84,7 +84,7 @@
         body.hovering .cursor-outline {
             width: 60px;
             height: 60px;
-            background-color: rgba(59, 130, 246, 0.1);
+            background-color: rgba(60, 130, 246, 0.1);
             border-color: transparent;
         }
 
